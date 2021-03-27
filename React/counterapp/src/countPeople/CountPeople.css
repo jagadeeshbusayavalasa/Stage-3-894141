@@ -1,0 +1,9 @@
+.button{
+    background-color: greenyellow;
+}
+.Count{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    
+}
